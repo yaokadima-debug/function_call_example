@@ -1,0 +1,18 @@
+{
+    "password":"sgkeopcwrqyqgdci",
+    "from_email":"1187522455@qq.com",
+    "to_email":"haihua.yao@foxmail.com",
+    "email_url":"smtp.qq.com",
+
+    "model_ongoing" : "deepseek-v4-pro",
+    "api_key" : "sk-d6dcdd78fc2742538c6f7f4110837357",
+    "model_url":"https://api.deepseek.com",
+    
+    "user_msg" : [
+        "hello",
+        "查询今天上海天气",
+        "帮我发一封邮件",
+        "从haihua.yao@foxmail.com发送给1187522455@qq.com，内容随意，标题是测试",
+        "再见"
+    ]
+}
