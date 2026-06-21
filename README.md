@@ -5,9 +5,9 @@
 
 **可参考**
 
-deepseek API: https://api-docs.deepseek.com/zh-cn/
+1. deepseek API: https://api-docs.deepseek.com/zh-cn/
 
-openAI API: https://developers.openai.com/api/reference/python/resources/chat/subresources/completions/methods/create
+2. openAI API: https://developers.openai.com/api/reference/python/resources/chat/subresources/completions/methods/create
 
 **运行**
 
