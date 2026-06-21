@@ -1,0 +1,2 @@
+# function_call_example
+基于openAI的API接口+Deepseek模型的function call用例
